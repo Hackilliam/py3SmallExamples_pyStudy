@@ -1,4 +1,4 @@
-关于py3的一些小知识点
+关于python3的一些小知识点
 
 项目参考：https://github.com/jackzhenguo/python-small-examples
 
